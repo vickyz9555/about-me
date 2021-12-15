@@ -18,4 +18,4 @@
  * Period 7: Spanish
  * Period 8: BHP (Big History Project)
  * Period 9: PE (Yoga)
- 
+
