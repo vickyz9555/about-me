@@ -3,7 +3,7 @@
  
  Email: vickyz9555@hstat.org
 
- School: High School of Telecommunication of Arts and Technology
+ School: High School of Telecommunication Arts and Technology
  
  Schedule: 
 
