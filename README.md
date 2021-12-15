@@ -5,6 +5,8 @@
  
  Birthday: April 14 
  
+ Hobbies: Drawing & Singing
+ 
  Email: vickyz9555@hstat.org
 
  School: High School of Telecommunication Arts and Technology
