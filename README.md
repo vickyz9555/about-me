@@ -1,9 +1,11 @@
 # about-me
  Name: Vicky Zheng
  
+ Age: 15
+ 
  Email: vickyz9555@hstat.org
 
- School: High School of Telecommunication of Arts and Technology
+ School: High School of Telecommunication Arts and Technology
  
  Schedule: 
 
@@ -16,3 +18,4 @@
  * Period 7: Spanish
  * Period 8: BHP (Big History Project)
  * Period 9: PE (Yoga)
+ 
