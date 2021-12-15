@@ -3,6 +3,8 @@
  
  Age: 15
  
+ Birthday: April 14 
+ 
  Email: vickyz9555@hstat.org
 
  School: High School of Telecommunication Arts and Technology
