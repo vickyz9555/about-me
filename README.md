@@ -7,19 +7,19 @@
  
  #### Hobbies: Drawing & Singing
  
- #### Email: vickyz9555@hstat.org
+ #### Email: _vickyz9555@hstat.org_
 
  #### School: High School of Telecommunication Arts and Technology
  
- #### Schedule: 
+ **Schedule:** 
 
- ###### Period 1: Global History
- ###### Period 2: English
- ###### Period 3: Chemistry
- ###### Period 4: Lunch
- ###### Period 5: Algebra 2
- ###### Period 6: SEP
- ###### Period 7: Spanish
- ###### Period 8: BHP (Big History Project)
- ###### Period 9: PE (Yoga)
+ ###### _Period 1: Global History_
+ ###### _Period 2: English_
+ ###### _Period 3: Chemistry_
+ ###### _Period 4: Lunch_
+ ###### _Period 5: Algebra 2_
+ ###### _Period 6: SEP_
+ ###### _Period 7: Spanish_
+ ###### _Period 8: BHP (Big History Project)_
+ ###### _Period 9: PE (Yoga)_
 
