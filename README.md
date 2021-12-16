@@ -1,25 +1,29 @@
 # about-me
- #### Name: Vicky Zheng
+ ## Name: Vicky Zheng
  
- #### Age: 15
+ ## Age: 15
  
- #### Birthday: April 14 
+ ### Birthday: April 14 
  
- #### Hobbies: Drawing & Singing
+ ### Hobbies: 
+ > * **Drawing**  
+ > * **Singing**  
  
- #### Email: _vickyz9555@hstat.org_
+ ### Email: _vickyz9555@hstat.org_
 
- #### School: High School of Telecommunication Arts and Technology
+ ---
+
+ ### School: High School of Telecommunication Arts and Technology
  
  **Schedule:** 
 
- ###### _Period 1: Global History_
- ###### _Period 2: English_
- ###### _Period 3: Chemistry_
- ###### _Period 4: Lunch_
- ###### _Period 5: Algebra 2_
- ###### _Period 6: SEP_
- ###### _Period 7: Spanish_
- ###### _Period 8: BHP (Big History Project)_
- ###### _Period 9: PE (Yoga)_
+ 1. _Global History_
+ 2. _English_
+ 3. _Chemistry_
+ 4. _Lunch_
+ 5. _Algebra 2_
+ 6. _SEP_
+ 7. _Spanish_
+ 8. _BHP (Big History Project)_
+ 9. _PE (Yoga)_
 
