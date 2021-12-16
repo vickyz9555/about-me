@@ -10,7 +10,7 @@
   * **Singing**  
 
  ---
- 
+
  ### School: High School of Telecommunication Arts and Technology
  
  #### [Click here to check our school website](https://www.hstat.org/)
