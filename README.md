@@ -6,13 +6,13 @@
  ### Birthday: April 14 
  
  ### Hobbies: 
- > * **Drawing**  
- > * **Singing**  
+  * **Drawing**  
+  * **Singing**  
+ 
+ ---
  
  ### Email: _vickyz9555@hstat.org_
-
- ---
-
+ 
  ### School: High School of Telecommunication Arts and Technology
  
  **Schedule:** 
