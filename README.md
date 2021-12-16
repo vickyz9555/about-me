@@ -11,9 +11,9 @@
 
  ---
  
- ### Email: _vickyz9555@hstat.org_
- 
  ### School: High School of Telecommunication Arts and Technology
+ 
+ #### [Click here to check our school website](https://www.hstat.org/)
  
  ### Email: _vickyz9555@hstat.org_
  
