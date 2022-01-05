@@ -10,6 +10,9 @@
   * **Singing**  
 
  ---
+ ### Favorite Food Suggestions
+ * **noodles**
+ * **rice**
 
  ### School: High School of Telecommunication Arts and Technology
  
