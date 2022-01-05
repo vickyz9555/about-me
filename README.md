@@ -3,7 +3,7 @@
  
  ## Age: 15
  
- ### Birthday: April 14 
+ ### Birthday: April 14 2006
  
  ### Hobbies: 
   * **Drawing**  
