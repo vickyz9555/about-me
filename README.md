@@ -3,13 +3,16 @@
  
  ## Age: 15
  
- ### Birthday: April 14 
+ ### Birthday: April 14 2006
  
  ### Hobbies: 
   * **Drawing**  
   * **Singing**  
 
  ---
+ ### Favorite Food Suggestions
+ * **noodles**
+ * **rice**
 
  ### School: High School of Telecommunication Arts and Technology
  
